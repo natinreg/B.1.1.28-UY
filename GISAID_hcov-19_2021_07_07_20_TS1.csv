@@ -1,6 +1,6 @@
 ## GISAID ACCESSION – SAMPLES IN THIS WORK,,,,
 #Accession ID,Sample_ID,Collection date,Location,
-EPI_ISL_2963518,REICUY8-002121-UYMO,2021-01-14,South America / Uruguay / Montevideo,South America / Uruguay / 
+EPI_ISL_2963518,REICUY8-002121-UYMO,2021-01-14,South America / Uruguay / Montevideo,
 EPI_ISL_2963519,CUY1-000101-UYSA,2021-02-25,South America / Uruguay / Salto,
 EPI_ISL_2963634,CUY1-000008-UYSJ,2021-03-04,South America / Uruguay / San Jose,
 EPI_ISL_2964004,CUY1-000107-UYRN,2021-03-02,South America / Uruguay / Rio Negro,
@@ -110,10 +110,11 @@ EPI_ISL_2965579,CUY6-000825-UYMO,2021-04-19,South America / Uruguay / Montevideo
 EPI_ISL_2965580,CUY6-001107-UYCA,2021-04-19,South America / Uruguay / Canelones,
 EPI_ISL_2965581,RT21-UYMO,2020-10-05,South America / Uruguay / Montevideo,
 EPI_ISL_2965583,RT01-UYMO,2020-08-07,South America / Uruguay / Montevideo,
-EPI_ISL_2965584,RT19-UYMO,2020-09-14,South America / Uruguay / 
-South America / Uruguay / Montevideo,
+EPI_ISL_2965584,RT19-UYMO,2020-09-14,South America / Uruguay / Montevideo,
 EPI_ISL_2965585,RT20-UYMO,2020-10-05,South America / Uruguay / Montevideo,
 EPI_ISL_2965586,RT22-UYMO,2020-09-25,South America / Uruguay / Montevideo,
+## GISAID ACCESSION EpiCoV Database
+#Accession ID, Sample_ID, Collection date, Location
 EPI_ISL_2427519,2021-02-18,2021-06-05,South America / Uruguay / Montevideo,
 EPI_ISL_2427520,2021-03-29,2021-06-05,South America / Uruguay / Montevideo,
 EPI_ISL_2427524,2021-03-06,2021-06-05,South America / Uruguay / Montevideo,
